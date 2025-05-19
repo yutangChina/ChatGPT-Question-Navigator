@@ -31,11 +31,6 @@
    - 置顶：快速回到页面顶部
    - 置底：快速到达页面底部
    - 刷新：更新问题列表
-
-## 效果展示
-
-![screenshot](../screenshot.png)
-
 ---
 
 # ChatGPT Question Navigator
@@ -74,4 +69,4 @@ A Chrome browser extension that enhances the ChatGPT experience by adding a ques
 
 ## Screenshot
 
-![screenshot](../screenshot.png)
+![screenshot](./screenshot.png)
